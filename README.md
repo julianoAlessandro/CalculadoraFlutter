@@ -20,4 +20,4 @@ O projeto deve obrigatoriamente conter os seguintes itens:
 
 Abaixo está demonstrado o resultado final do projeto:
 
-![Resultado Final do Projeto](CALCULADORA.jpeg)
+![Resultado Final do Projeto]('https://github.com/julianoAlessandro/CalculadoraFlutter/assets/111141842/e6218f8a-d172-4c63-934c-fd7ec74a907c')
